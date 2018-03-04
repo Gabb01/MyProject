@@ -45,7 +45,7 @@ public class UserDao {
 		}
 		return 0;
 	}
-
+	// Test
 	public int updateUser(User pUser){
 		List<User> userList = getAllUsers();
 
